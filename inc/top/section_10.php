@@ -7,21 +7,24 @@
         <div class="l-wrap">
             <div class="c-card_boxes_pc">
                 <div class="box">
-                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/sect_10/sect_10_img_1.jpeg" alt="">
-                    <p class="title">カウンター 全8席</p>
+                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/sect_10/sect_10_img_1.png"
+                        alt="">
+                    <p class="title">カウンター 全11席</p>
                     <p class="desc">目の前で調理が見えるカウンター席。落ち着いた雰囲気でゆったりお食事をお楽しみ頂けます。</p>
                 </div>
 
                 <div class="box">
-                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/sect_10/sect_10_img_2.jpeg" alt="">
-                    <p class="title">テーブル 全6卓</p>
-                    <p class="desc">目の前で調理が見えるカウンター席。落ち着いた雰囲気でゆったりお食事をお楽しみ頂けます。</p>
+                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/sect_10/sect_10_img_2.png"
+                        alt="">
+                    <p class="title">テーブル 全4卓</p>
+                    <p class="desc">ご宴会はもちろん、ちょい飲み、女子会など様々な食事シーンでご利用頂けます。</p>
                 </div>
 
                 <div class="box">
-                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/sect_10/sect_10_img_3.jpeg" alt="">
-                    <p class="title">掘りごたつ 全6卓</p>
-                    <p class="desc">目の前で調理が見えるカウンター席。落ち着いた雰囲気でゆったりお食事をお楽しみ頂けます。</p>
+                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/sect_10/sect_10_img_3.png"
+                        alt="">
+                    <p class="title">明るく開放感のある店内</p>
+                    <p class="desc">25名様以上での貸切も可能です！サプライズ演出も協力いたします。</p>
                 </div>
             </div>
         </div>

@@ -8,7 +8,8 @@
                 <div class="row-1">
                     <p class="row-1__ques">キャンセルはいつまで大丈夫ですか？<br>
                         キャンセル料はかかりますか？ </p>
-                    <p class="row-1__ans">飲み放題付きコースをご注文の場合、当日の15:00までのご連絡いただければキャンセル料はいただきません。当日ご来店されてからのキャンセルは料金の50%頂戴しております。
+                    <p class="row-1__ans">
+                        飲み放題付きコースをご注文の場合、当日の15:00までのご連絡いただければキャンセル料はいただきません。当日ご来店されてからのキャンセルは料金の50%頂戴しております。
                     </p>
 
                     <div class="col-1-pc">
@@ -35,7 +36,8 @@
 
                     <div class="col-1">
                         <p class="row-1__ques">アレルギー対応は？</p>
-                        <p class="row-1__ans">申し訳ございません。日替わりのメニューなども多数ございますので、メニュー表にはアレルギー表記がございません。スタッフに直接お尋ねください。また、コースでご予約いただける場合は事前にお申し付けくださいませ。
+                        <p class="row-1__ans">
+                            申し訳ございません。日替わりのメニューなども多数ございますので、メニュー表にはアレルギー表記がございません。スタッフに直接お尋ねください。また、コースでご予約いただける場合は事前にお申し付けくださいませ。
                         </p>
                     </div>
                 </div>
@@ -67,7 +69,9 @@
                         <p class="row-2__ans1">SNSを中心に発信しております。主にInstagram、LINEで発信しておりますので、是非友だち追加してください。
                         </p>
                         <a class="insta_btn" href="https://www.instagram.com/funeya_kusatsu/" target="_blank">
-                            <img class="insta_img" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_11/instagram_icon.svg" alt="">
+                            <img class="insta_img"
+                                src="<?php echo get_template_directory_uri(); ?>/release/image/sect_11/instagram_icon.svg"
+                                alt="">
                             official Instagram : funeya_kusatsu
                         </a>
                     </div>
@@ -75,8 +79,9 @@
             </div>
 
             <div class="last_ques">
-                <p class="last_ques__title">予約の変更や、質問はどこで受け付けていますか？</p>
-                <p class="last_ques__ans">15:00以降であればスタッフが在店しておりますのでお電話でご対応させていただけます。また、LINEでは営業時間外もご対応させていただけますのでぜひご利用ください（返信にお時間頂く場合がございますので、お急ぎの場合はお電話をおすすめしております。）
+                <p class="last_ques__title">予約の変更や、質問は<br>どこで受け付けていますか？</p>
+                <p class="last_ques__ans">
+                    15:00以降であればスタッフが在店しておりますのでお電話でご対応させていただけます。また、LINEでは営業時間外もご対応させていただけますのでぜひご利用ください（返信にお時間頂く場合がございますので、お急ぎの場合はお電話をおすすめしております。）
                 </p>
             </div>
         </div>

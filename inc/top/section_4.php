@@ -17,22 +17,23 @@
                 $the_query = new WP_Query($args);
                 ?>
 
-                <?php if ($the_query->have_posts()) : ?>
+            <?php if ($the_query->have_posts()) : ?>
 
-                    <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
+            <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
 
-                        <div class="l-insta__content-1">
-                            <?php the_content(); ?>
-                        </div>
+            <div class="l-insta__content-1">
+                <?php the_content(); ?>
+            </div>
 
-                    <?php endwhile; ?>
+            <?php endwhile; ?>
             <?php endif; ?>
 
         </div>
         <div class="l-content l-insta__offcl-inst">
-            <a class="off-text off-text-primary" href="https://www.instagram.com/funeya_kusatsu/" target="_blank"> 
-            <img class="insta-pic" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_4/insta-logo-white.png" alt="">
-                &nbsp;official Instagram : funeya_kusatsu</a>
+            <a class="off-text off-text-primary" href="https://www.instagram.com/funeyayasu/" target="_blank">
+                <img class="insta-pic"
+                    src="<?php echo get_template_directory_uri(); ?>/release/image/sect_4/insta-logo-white.png" alt="">
+                &nbsp;official Instagram : funeyayasu</a>
         </div>
     </div>
 </section>

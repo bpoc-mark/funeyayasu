@@ -11,15 +11,19 @@
     <?php wp_head(); ?>
     <?php wp_footer(); ?>
 
-    <link rel="shortcut icon" type="image/jpg" href="<?php echo get_template_directory_uri(); ?>/release/image/funuyakusatsu-fav.png" />
+    <link rel="shortcut icon" type="image/jpg"
+        href="<?php echo get_template_directory_uri(); ?>/release/image/funuyakusatsu-fav.png" />
 
     <!-- CSS -->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/release/css/style.css">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;700;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cross-platform-yu-gothic@0.1.1/cross-platform-yu-gothic.min.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;700;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/cross-platform-yu-gothic@0.1.1/cross-platform-yu-gothic.min.css">
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
 
@@ -35,18 +39,21 @@
                     <div class="l-wrap">
                         <div class="page__info">
                             <div class="info_logo">
-                                <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/info_logo.png" alt="">
+                                <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/info_logo.png"
+                                    alt="">
                             </div>
                             <div class="info_txt">
                                 <h2>魚介と言えば、<br>FUNEYAです。</h2>
                             </div>
                         </div>
                     </div>
-                    <div class="hero_cta" >
+                    <div class="hero_cta">
                         <div class="hero_cta__cont" id="hero_cta">
-                            <a class="item_01" href="https://www.tablecheck.com/shops/funeya-kusatsu/reserve" target="_blank">
+                            <a class="item_01" href="https://www.tablecheck.com/shops/funeya-kusatsu/reserve"
+                                target="_blank">
                                 <div class="item_icn">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/icon_note.png" alt="">
+                                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/icon_note.png"
+                                        alt="">
                                 </div>
                                 <div class="item_txt">
                                     <p>
@@ -57,7 +64,8 @@
                             </a>
                             <a class="item_01" href="https://www.instagram.com/funeya_kusatsu/" target="_blank">
                                 <div class="item_icn">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/icon_ig.png" alt="">
+                                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/icon_ig.png"
+                                        alt="">
                                 </div>
                                 <div class="item_txt">
                                     <p>
@@ -67,7 +75,8 @@
                             </a>
                             <a class="item_01" href="https://lin.ee/Fw3N2ow" target="_blank">
                                 <div class="item_icn">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/icon_line.png" alt="">
+                                    <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/icon_line.png"
+                                        alt="">
                                 </div>
                                 <div class="item_txt">
                                     <p>
@@ -84,8 +93,10 @@
                     <div class="p-header__left">
                         <a href="">
                             <h1>
-                                <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/header_logo_pc.png" alt="">
-                                <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/header_logo_sp.png" alt="">
+                                <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/header_logo_pc.png"
+                                    alt="">
+                                <img src="<?php echo get_template_directory_uri(); ?>/release/image/header/header_logo_sp.png"
+                                    alt="">
                             </h1>
                         </a>
                     </div>
@@ -127,7 +138,7 @@
                     </div>
                     <div class="p-header__right">
                         <p>
-                            <span>TEL.</span>077-569-2019
+                            <span>TEL.</span>050-5484-6229
                         </p>
                     </div>
                 </div>

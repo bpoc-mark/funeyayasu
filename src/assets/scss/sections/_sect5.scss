@@ -39,6 +39,10 @@
 
 		&__heading {
 
+			@include is-min(750px) {
+				width: calc(100% - 322px);
+			}
+
 			.c-heading-title {
 				@include font-line(38);
 				font-family: 'A1明朝';
@@ -73,6 +77,14 @@
 				top: -258px;
 				right: 0;
 				display: none;
+
+				@include is-max(894px) {
+					top: -325px;
+				}
+
+				@include is-max(836px) {
+					top: -390px;
+				}
 
 				@include is-pc {
 					display: block;

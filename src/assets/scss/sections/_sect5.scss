@@ -293,6 +293,10 @@
 				color: #c60000;
 				margin-bottom: 70px;
 				padding-right: 20px;
+
+				@include is-max(481px) {
+					@include font-line(26);
+				}
 			}
 
 			.pic-1 {

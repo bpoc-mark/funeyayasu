@@ -1233,6 +1233,7 @@ template{display:none}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:not(:last-child) a{border-right:unset}
 .sticky{height:150px}
 .sect_1{padding:50px 0 0 0}
+}@media only screen and (max-width:481px){.sect_5 .c_address__boxes2 .pic-1:nth-child(1) p{font-size:1.625rem}
 }@media only screen and (max-width:480px){.sect_11 .last_ques__title br{display:block}
 }@media only screen and (max-width:479px){.nav__header .p-header__middle .l-navigation .p-navigation__link{width:45%}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:nth-child(2n+1){width:55%}

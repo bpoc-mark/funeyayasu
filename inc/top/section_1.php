@@ -6,11 +6,11 @@
             <img class="sect_1__img-map" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_1/map.png"
                 alt="">
             <div class="l-content sect_1__description">
-                <p class="c-heading--01 c-heading--white"> JR草津駅から徒歩4分、<br class="br-pc"> <br class="br-sp">
-                    魚介は産地直送や、<br class="br-sp">毎日市場に買付け。<br class="br-pc"> <br class="br-sp">
-                    新鮮魚介居酒屋。<br class="br-pc"> <br class="br-sp">
-                    47都道府県の日本酒 <br class="br-sp">
-                    取り揃えています。
+                <p class="c-heading--01 c-heading--white"> ＪＲ野洲駅徒歩1分。<br class="br-pc"> <br class="br-sp">
+                    毎日買い付けをし、<br class="br-sp"><br class="br-pc">
+                    産地直送で仕入れる新鮮魚介！<br class="br-pc"> <br class="br-sp">
+                    北海道から沖縄まで47種類の<br class="br-sp"><br class="br-pc">
+                    日本酒を取り揃えています。
                 </p>
             </div>
             <div class="l-container sect_1__center-col-1">
@@ -31,15 +31,15 @@
 
                 <?php if ($the_query->have_posts()) : ?>
 
-                    <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
+                <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
 
-                        <div class="sect_1__center--frame">
-                            <?php the_post_thumbnail(); ?>
-                            <div class="c-heading-title c-heading-title-white mt-20"><?php the_title(); ?></div>
-                            <div class="text text-white"><?php the_content(); ?></div>
-                        </div>
+                <div class="sect_1__center--frame">
+                    <?php the_post_thumbnail(); ?>
+                    <div class="c-heading-title c-heading-title-white mt-20"><?php the_title(); ?></div>
+                    <div class="text text-white"><?php the_content(); ?></div>
+                </div>
 
-                    <?php endwhile; ?>
+                <?php endwhile; ?>
                 <?php endif; ?>
             </div>
         </div>

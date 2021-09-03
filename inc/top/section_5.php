@@ -94,21 +94,21 @@
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_10.png" alt="">
-                <p class="c-text">紅さんの路地を左折し、<br>スギ薬局を左手に進む</p>
+                <p class="c-text">紅さんの路地を左折し、スギ薬局を左手に進む</p>
             </div>
             <img class="arrow-3" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_11.png" alt="">
-                <p class="c-text">焼き肉マワリさんの横の<br>階段を上った先に店舗が<br>ございます。</p>
+                <p class="c-text">焼き肉マワリさんの横の階段を上った先に店舗がございます。</p>
             </div>
             <img class="arrow-3" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_12.png" alt="">
-                <p class="c-text">焼き肉マワリさんの横の<br>階段を上った先に店舗が<br>ございます。</p>
+                <p class="c-text">焼き肉マワリさんの横の階段を上った先に店舗が>ございます。</p>
             </div>
         </div>
         <div class="l-container c_address__boxes2">

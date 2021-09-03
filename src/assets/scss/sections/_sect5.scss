@@ -350,10 +350,22 @@
 			.arrow-1 {
 				margin-bottom: 70px;
 
+				@include is-max(400px) {
+					top: 74% !important;
+				}
+
+				@include is-max(500px) {
+					top: 66% !important;
+				}
+
+				@include is-max(550px) {
+					left: 2% !important;
+				}
+
 				@include is-sp {
 					position: absolute;
-					left: 2%;
-					top: 65%;
+					left: 1%;
+					top: 66%;
 					width: 3%;
 				}
 			}

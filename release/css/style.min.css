@@ -1231,7 +1231,7 @@ template{display:none}
 .sect_5 .c_address__boxes2 .srvc_1-s{width:100%}
 .sect_5 .c_address__boxes2 .arrow{margin:0}
 .sect_5 .c_address__boxes2 .pic-1{width:47%}
-.sect_5 .c_address__boxes2 .arrow-1{position:absolute;left:2%;top:65%;width:3%}
+.sect_5 .c_address__boxes2 .arrow-1{position:absolute;left:1%;top:66%;width:3%}
 .sect_5 .c_address__boxes2 .arrow-2{position:absolute;right:48%;top:18%;width:3%}
 .sect_5 .c_address__boxes2 .arrow-3{position:absolute;bottom:32%;right:48%;width:3%;margin-bottom:0}
 }@media only screen and (max-width:581px){.nav__header .p-header__middle .l-navigation .p-navigation__link{width:calc(100% / 2)}
@@ -1239,10 +1239,12 @@ template{display:none}
 .sticky{height:150px}
 .sect_1{padding:50px 0 0 0}
 }@media only screen and (max-width:550px){.sect_5 .c_address__boxes .arrow-1{left:2% !important}
+.sect_5 .c_address__boxes2 .arrow-1{left:2% !important}
 }@media only screen and (max-width:508px){.sect_1 .c-heading--01 br[sm]{display:block}
 }@media only screen and (max-width:500px){.sect_5 .c_address__boxes .arrow-1{top:75% !important}
 .sect_5 .c_address__boxes .arrow-2{top:10% !important}
 .sect_5 .c_address__boxes .arrow-3{bottom:56% !important}
+.sect_5 .c_address__boxes2 .arrow-1{top:66% !important}
 }@media only screen and (max-width:495px){.sect_5 .c_address__heading .c-heading-title{font-size:2.25rem}
 }@media only screen and (max-width:481px){.sect_5 .c_address__boxes2 .pic-1:nth-child(1) p{font-size:1.625rem}
 }@media only screen and (max-width:480px){.sect_11 .last_ques__title br{display:block}
@@ -1255,6 +1257,7 @@ template{display:none}
 }@media only screen and (max-width:400px){.sect_5 .c_address__boxes .arrow-1{top:74% !important}
 .sect_5 .c_address__boxes .arrow-2{top:10% !important}
 .sect_5 .c_address__boxes .arrow-3{top:42% !important}
+.sect_5 .c_address__boxes2 .arrow-1{top:74% !important}
 }@media only screen and (max-width:370px){.page__footer .p-footer__inner--top table tbody tr td{padding-left:0}
 }@media only screen and (max-width:366px){.sect_5 .c_address__boxes .c-text{height:170px}
 }@-webkit-keyframes loader-text{0%{-webkit-transform:rotate(0);transform:rotate(0)}

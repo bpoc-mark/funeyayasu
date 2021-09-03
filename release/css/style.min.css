@@ -676,7 +676,7 @@ template{display:none}
 .sect_2__title .c-heading-title-white{color:#fff}
 .sect_2__content{margin:0 auto;max-width:561px}
 .sect_2__content .text{font-size:1.125rem;font-family:'Noto Sans JP',sans-serif;font-weight:400;text-align:justify}
-.sect_2__content .text span{color:#ffe600}
+.sect_2__content .text span{color:#ffe600;font-weight:800}
 .sect_2__content .text-white{color:#fff}
 .sect_2__image-sp{display:none}
 .sect_3{background-image:url("../image/sect_3/overlay_background.jpg");background-repeat:no-repeat;background-size:cover;text-align:center;position:relative}

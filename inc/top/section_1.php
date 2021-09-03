@@ -6,9 +6,9 @@
             <img class="sect_1__img-map" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_1/map.png"
                 alt="">
             <div class="l-content sect_1__description">
-                <p class="c-heading--01 c-heading--white"> ＪＲ野洲駅徒歩1分。<br class="br-pc"> <br class="br-sp">
+                <p class="c-heading--01 c-heading--white"> JR野洲駅徒歩1分。<br class="br-pc"> <br class="br-sp">
                     毎日買い付けをし、<br class="br-sp"><br class="br-pc">
-                    産地直送で仕入れる新鮮魚介！<br class="br-pc"> <br class="br-sp">
+                    産地直送で仕入れる<br sm>新鮮魚介！<br class="br-pc"> <br class="br-sp">
                     北海道から沖縄まで47種類の<br class="br-sp"><br class="br-pc">
                     日本酒を取り揃えています。
                 </p>

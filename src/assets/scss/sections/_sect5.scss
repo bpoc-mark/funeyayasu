@@ -50,6 +50,10 @@
 				@include is-sp {
 					letter-spacing: -3px;
 				}
+
+				@include is-max(495px) {
+					@include font-line(36);
+				}
 			}
 
 			.c-heading-primary {

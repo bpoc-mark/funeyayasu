@@ -70,6 +70,14 @@
 				display: block;
 			}
 		}
+
+		br[sm] {
+			display: none;
+
+			@include is-max(508px) {
+				display: block;
+			}
+		}
 	}
 
 	// .c-heading--01-sp {

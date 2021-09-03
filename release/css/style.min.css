@@ -654,6 +654,7 @@ template{display:none}
 .sect_1 .l-wrap .l-container{padding:0}
 .sect_1 .c-heading--01{font-size:2.375rem;font-family:'A1明朝';text-align:center}
 .sect_1 .c-heading--01 .br-sp{display:none}
+.sect_1 .c-heading--01 br[sm]{display:none}
 .sect_1 .c-heading--white{color:#fff}
 .sect_1 .c-heading-title{font-size:1.625rem;font-family:'Noto Sans JP',sans-serif;font-weight:700;text-align:center}
 .sect_1 .c-heading-title-white{color:#fff}
@@ -698,7 +699,8 @@ template{display:none}
 .sect_3__star-wrapper .star-pic{width:20px;margin-top:-5px}
 .sect_3__star-wrapper .c-food{text-align:left}
 .sect_3__star-wrapper .food-1{width:100px}
-.sect_3__star-wrapper span small{border:1px solid #a2a2a2;padding:2px 5px;border-radius:5px;font-weight:700}
+.sect_3__star-wrapper span{font-family:'Yu Gothic',sans-serif}
+.sect_3__star-wrapper span small{border:1px solid #a2a2a2;padding:2px 5px;border-radius:5px;font-weight:700;font-family:'Noto Sans JP',sans-serif}
 .sect_3__star-wrapper .inline-img{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-column-gap:5px;-moz-column-gap:5px;column-gap:5px}
 .sect_3{background-image:url("../image/sect_3/overlay_background.jpg");background-repeat:no-repeat;background-size:cover;text-align:center;position:relative}
 .sect_3 .outer_container{max-width:920px;width:100%;margin:0 auto}
@@ -1192,7 +1194,7 @@ template{display:none}
 .sect_1__center--frame .br-sp{display:block}
 .sect_2 .bg_overlay-sp{display:block}
 .sect_2__title .c-heading-title{letter-spacing:0}
-.sect_2__content .text span{color:#fff}
+.sect_2__content .text span{color:#fff;font-weight:400}
 .sect_2__image-sp{display:block}
 .sect_2__image-sp .upper-image{width:100%}
 .sect_3__inner{border-left:0;border-right:0}
@@ -1237,9 +1239,11 @@ template{display:none}
 .sticky{height:150px}
 .sect_1{padding:50px 0 0 0}
 }@media only screen and (max-width:550px){.sect_5 .c_address__boxes .arrow-1{left:2% !important}
+}@media only screen and (max-width:508px){.sect_1 .c-heading--01 br[sm]{display:block}
 }@media only screen and (max-width:500px){.sect_5 .c_address__boxes .arrow-1{top:75% !important}
 .sect_5 .c_address__boxes .arrow-2{top:10% !important}
 .sect_5 .c_address__boxes .arrow-3{bottom:56% !important}
+}@media only screen and (max-width:495px){.sect_5 .c_address__heading .c-heading-title{font-size:2.25rem}
 }@media only screen and (max-width:481px){.sect_5 .c_address__boxes2 .pic-1:nth-child(1) p{font-size:1.625rem}
 }@media only screen and (max-width:480px){.sect_11 .last_ques__title br{display:block}
 }@media only screen and (max-width:479px){.nav__header .p-header__middle .l-navigation .p-navigation__link{width:45%}

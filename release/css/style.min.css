@@ -1216,7 +1216,7 @@ template{display:none}
 .sect_5 .l-wrap{padding-left:0 !important;padding-right:0 !important}
 .sect_5 .c_address__heading .c-heading-title{letter-spacing:-3px}
 .sect_5 .c_address__heading .c-heading-primary{padding-left:30px;padding-right:30px}
-.sect_5 .c_address__c-description{padding-left:30px;padding-right:30px}
+.sect_5 .c_address__c-description{padding-left:30px;padding-right:30px;padding-bottom:34px}
 .sect_5 .c_address .srvc_1{width:50%}
 .sect_5 .c_address .lef-pic-sp{display:-webkit-box;display:-ms-flexbox;display:flex}
 .sect_5 .c_address__boxes{-webkit-column-count:unset;-moz-column-count:unset;column-count:unset;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;padding-left:30px;padding-right:30px;-webkit-column-gap:unset;-moz-column-gap:unset;column-gap:unset}

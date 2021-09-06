@@ -1122,6 +1122,7 @@ template{display:none}
 .page__footer .p-footer__inner--top table tbody tr td br{display:block}
 .page__footer .p-footer__inner--bottom{margin-bottom:10px}
 .page__footer .p-footer__inner--bottom .f-card{width:100%;margin-bottom:10px}
+.page__footer .p-footer .footer_copryright{padding-bottom:60px}
 .page__top.isHome{height:780px !important;background-position:center center !important}
 .page__wrapper .hero_cta{width:100%;top:unset;bottom:0}
 .page__wrapper .hero_cta__cont{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
@@ -1254,6 +1255,7 @@ template{display:none}
 }@media only screen and (max-width:470px){.page__wrapper .hero_cta__cont .item_01:nth-of-type(1){width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(2){width:50%}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(3){width:50%}
+}@media only screen and (max-width:469px){.page__footer .p-footer .footer_copryright{padding-bottom:100px}
 }@media only screen and (max-width:400px){.sect_5 .c_address__boxes .arrow-1{top:74% !important}
 .sect_5 .c_address__boxes .arrow-2{top:10% !important}
 .sect_5 .c_address__boxes .arrow-3{top:42% !important}

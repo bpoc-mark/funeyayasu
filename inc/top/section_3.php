@@ -77,7 +77,8 @@
                             <img class="star-pic"
                                 src="<?php echo get_template_directory_uri(); ?>/release/image/sect_3/star.png" alt="">
                             <img class="star-pic"
-                                src="<?php echo get_template_directory_uri(); ?>/release/image/sect_3/star.png" alt="">
+                                src="<?php echo get_template_directory_uri(); ?>/release/image/sect_3/star-white.png"
+                                alt="">
                             <span>2 か月前</span>
                         </div>
                         <p class="c-rating">初めて野洲駅下車。お通しがいきなり美味しくて驚き。鯖が好きなのでサバ飯的なものを注文。時間がかかりそうなので刺し身の盛り合わせも。<br>

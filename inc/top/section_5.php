@@ -4,7 +4,7 @@
             alt="">
         <div class="l-wrap">
             <div class="l-container c_address__heading">
-                <p class="c-heading-title c-heading-primary">J R 近江八幡駅から<br>
+                <p class="c-heading-title c-heading-primary">JR近江八幡駅から<br>
                     徒歩5分と駅チカの好立地。<br>
                     お仕事帰りなどにも<br>
                     お気軽にお立ち寄りください！</p>

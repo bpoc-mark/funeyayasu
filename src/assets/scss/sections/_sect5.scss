@@ -303,8 +303,9 @@
 				display: flex;
 				flex-wrap: wrap;
 				padding-left: 30px;
-				// padding-right: 30px;
+				padding-right: 30px;
 				column-gap: unset;
+				justify-content: space-between;
 				margin-top: 0;
 			}
 
@@ -335,9 +336,19 @@
 				}
 			}
 
+			.parking_info {
+				font-family: "ten-mincho" !important;
+			}
+
 			.pic-1 {
 				@include is-sp {
 					width: 47%;
+				}
+			}
+
+			.pic-1.parking {
+				@include is-sp {
+					width: 100%;
 				}
 			}
 
@@ -365,9 +376,9 @@
 				}
 
 				@include is-sp {
-					position: absolute;
-					left: 1%;
-					top: 66%;
+					// position: absolute;
+					// left: 1%;
+					// top: 66%;
 					width: 3%;
 				}
 			}

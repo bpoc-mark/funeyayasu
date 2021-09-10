@@ -80,53 +80,53 @@
             <div class="pic-1">
                 <img class="srvc_1-s" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_8.png"
                     alt="">
-                <p class="c-text">改札から北出口方面<br>に行き、左手の階段を<br>降りる</p>
+                <p class="c-text">JR野洲駅の改札を出て、<br>南口へ。階段を降りる。</p>
             </div>
             <img class="arrow-1" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src=" <?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_9.png" alt="">
-                <p class="c-text">ロータリー沿いに進む</p>
+                <p class="c-text">ロータリーの横断歩道を直進</p>
             </div>
             <img class="arrow-2" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_10.png" alt="">
-                <p class="c-text">紅さんの路地を左折し、スギ薬局を左手に進む</p>
+                <p class="c-text">野洲駅前の交差点を渡る</p>
             </div>
             <img class="arrow-3" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_11.png" alt="">
-                <p class="c-text">焼き肉マワリさんの横の階段を上った先に店舗がございます。</p>
+                <p class="c-text">あげぽん亭さんの2件隣</p>
             </div>
             <img class="arrow-3" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_12.png" alt="">
-                <p class="c-text">焼き肉マワリさんの横の階段を上った先に店舗が>ございます。</p>
+                <p class="c-text">タコの絵が目印です>ございます。</p>
             </div>
         </div>
         <div class="l-container c_address__boxes2">
-            <div class="pic-1">
-                <p>駐車場のご案内</p>
+            <div class="pic-1 parking">
+                <p class="parking_info">駐車場のご案内</p>
             </div>
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_13.png" alt="">
-                <p class="c-text">店舗の前の<br>
-                    交差点を左折</p>
+                <p class="c-text">
+                野洲市役所前の<br>信号付近</p>
             </div>
             <img class="arrow-1" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/arrow_right.png"
                 alt="">
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src=" <?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_14.png" alt="">
-                <p class="c-text">左折後すぐのNPCパーキ<br>ングが近くておすすめで<br>す。</p>
+                <p class="c-text">NPCパーキングが上限も<br>あり、近くておすすめです。</p>
             </div>
         </div>
 

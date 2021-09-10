@@ -862,6 +862,7 @@ template{display:none}
 .sect_12 .contact_details .bg_color .l-wrap{padding-left:0 !important;padding-right:0 !important}
 .sect_7 .contact_details .bg_color .l-wrap{padding-left:0 !important;padding-right:0 !important}
 .sect_9 .contact_details .bg_color .l-wrap{padding-left:0 !important;padding-right:0 !important}
+}@media only screen and (max-width:970px){.nav__header .p-header__right p{font-size:1.1875rem}
 }@media only screen and (max-width:951px){.c-card_boxes_pc .box{width:48%}
 .c-card_boxes_pc .box:not(:first-child){margin-left:0}
 .c-card_boxes_pc .box:nth-child(2n+2){margin-left:4%;margin-bottom:50px}

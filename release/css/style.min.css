@@ -562,7 +562,7 @@ template{display:none}
 .page__footer .p-footer .footer_copryright p a{text-align:center;font-family:'Yu Gothic',sans-serif;font-weight:500;color:#fff;font-size:1rem}
 .page__header{position:relative}
 .page__top{position:relative}
-.page__top.isHome{position:relative;height:800px !important;background:url("http://funeyakusatsu.test/wp-content/uploads/2021/06/top_img.png") !important;background-size:cover !important;background-position:center center;background-repeat:no-repeat}
+.page__top.isHome{position:relative;height:700px !important;background:url("http://funeyakusatsu.test/wp-content/uploads/2021/06/top_img.png") !important;background-size:cover !important;background-position:center center;background-repeat:no-repeat}
 .page__wrapper .hero_cta{width:140px;position:absolute;top:0;right:0;-webkit-transition:top 1s ease 0s !important;transition:top 1s ease 0s !important}
 .page__wrapper .hero_cta__cont .item_01{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){background:url("../image/header/cta_bg.jpg") no-repeat 98% !important;background-size:cover;padding:30px 0 20px}
@@ -575,7 +575,7 @@ template{display:none}
 .page__wrapper .hero_cta__cont .item_01 .item_txt p{font-family:'Noto Sans JP',sans-serif;font-weight:700;color:#fff;font-size:1rem}
 .page__info .info_logo{width:200px;height:100px}
 .page__info .info_logo img{width:100%;margin-top:100px}
-.page__info .info_txt{padding-top:550px}
+.page__info .info_txt{padding-top:450px}
 .page__info .info_txt h2{font-size:3.375rem;text-align:center;font-family:'A1明朝';color:#fff}
 .page__info .info_txt h2 br{display:none}
 .nav__header{width:100%;background:#000;position:absolute;bottom:-60px;z-index:999}
@@ -875,7 +875,7 @@ template{display:none}
 .sect_1{margin-top:0}
 }@media only screen and (max-width:894px){.sect_5 .c_address__c-description .lef-pic-pc{top:-325px}
 }@media only screen and (max-width:836px){.sect_5 .c_address__c-description .lef-pic-pc{top:-390px}
-}@media only screen and (max-width:825px){.page__info .info_txt{padding-top:500px}
+}@media only screen and (max-width:825px){.page__info .info_txt{padding-top:350px}
 .page__info .info_txt h2 br{display:block}
 }@media only screen and (max-width:768px){.c-contact__item-2 .todo .list_icon{padding-bottom:2px}
 .c-contact__item-2 .todo_desc{padding-bottom:6px}
@@ -1129,7 +1129,7 @@ template{display:none}
 .page__footer .p-footer__inner--bottom{margin-bottom:10px}
 .page__footer .p-footer__inner--bottom .f-card{width:100%;margin-bottom:10px}
 .page__footer .p-footer .footer_copryright{padding-bottom:60px}
-.page__top.isHome{height:750px !important;background-position:center center !important}
+.page__top.isHome{height:700px !important;background-position:center center !important}
 .page__wrapper .hero_cta{width:100%;top:unset;bottom:0}
 .page__wrapper .hero_cta__cont{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){padding:9px;width:42%}
@@ -1141,7 +1141,7 @@ template{display:none}
 .page__wrapper .sticky_hero{-webkit-transition:top 1s ease 0s !important;transition:top 1s ease 0s !important;position:fixed;bottom:0;z-index:999;width:100%}
 .page__info .info_logo{display:none}
 .page__info .info_logo img{margin-top:0}
-.page__info .info_txt{padding-top:470px}
+.page__info .info_txt{padding-top:400px}
 .page__info .info_txt h2{font-size:3.125rem;text-align:center}
 .nav__header .l-wrap{padding:18px 30px !important}
 .nav__header .p-header__left{width:21%}

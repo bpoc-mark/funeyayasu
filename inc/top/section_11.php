@@ -68,11 +68,11 @@
                         <p class="row-2__ques">お店の最新情報は？</p>
                         <p class="row-2__ans1">SNSを中心に発信しております。主にInstagram、LINEで発信しておりますので、是非友だち追加してください。
                         </p>
-                        <a class="insta_btn" href="https://www.instagram.com/funeya_kusatsu/" target="_blank">
+                        <a class="insta_btn" href="https://www.instagram.com/funeyayasu/" target="_blank">
                             <img class="insta_img"
                                 src="<?php echo get_template_directory_uri(); ?>/release/image/sect_11/instagram_icon.svg"
                                 alt="">
-                            official Instagram : funeya_kusatsu
+                            official Instagram : funeyayasu
                         </a>
                     </div>
                 </div>

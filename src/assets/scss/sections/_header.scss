@@ -8,14 +8,14 @@
 
 		&.isHome {
 			position: relative;
-			height: 700px !important;
+			height: 900px !important;
 			background: url("http://funeyakusatsu.test/wp-content/uploads/2021/06/top_img.png") !important;
 			background-size: cover !important;
 			background-position: center center;
 			background-repeat: no-repeat;
 
 			@include is-sp {
-				height: 700px !important;
+				height: 780px !important;
 				background-position: center center !important;
 			}
 		}
@@ -178,14 +178,11 @@
 		}
 
 		.info_txt {
-			padding-top: 450px;
-
-			@include is-max(825px) {
-				padding-top: 350px;
-			}
+			padding-top: 350px;
 
 			@include is-sp {
-				padding-top: 400px;
+				padding-top: 300px;
+				padding-left: 40px;
 			}
 
 			h2 {
@@ -378,7 +375,9 @@
 			}
 
 			&__right {
-				width: 200px;
+				max-width: 200px;
+				white-space: nowrap;
+				padding-left: 20px;
 
 				@include is-sp {
 					display: none;

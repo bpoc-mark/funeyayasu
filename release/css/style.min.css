@@ -562,7 +562,7 @@ template{display:none}
 .page__footer .p-footer .footer_copryright p a{text-align:center;font-family:'Yu Gothic',sans-serif;font-weight:500;color:#fff;font-size:1rem}
 .page__header{position:relative}
 .page__top{position:relative}
-.page__top.isHome{position:relative;height:700px !important;background:url("http://funeyakusatsu.test/wp-content/uploads/2021/06/top_img.png") !important;background-size:cover !important;background-position:center center;background-repeat:no-repeat}
+.page__top.isHome{position:relative;height:900px !important;background:url("http://funeyakusatsu.test/wp-content/uploads/2021/06/top_img.png") !important;background-size:cover !important;background-position:center center;background-repeat:no-repeat}
 .page__wrapper .hero_cta{width:140px;position:absolute;top:0;right:0;-webkit-transition:top 1s ease 0s !important;transition:top 1s ease 0s !important}
 .page__wrapper .hero_cta__cont .item_01{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){background:url("../image/header/cta_bg.jpg") no-repeat 98% !important;background-size:cover;padding:30px 0 20px}
@@ -575,7 +575,7 @@ template{display:none}
 .page__wrapper .hero_cta__cont .item_01 .item_txt p{font-family:'Noto Sans JP',sans-serif;font-weight:700;color:#fff;font-size:1rem}
 .page__info .info_logo{width:200px;height:100px}
 .page__info .info_logo img{width:100%;margin-top:100px}
-.page__info .info_txt{padding-top:450px}
+.page__info .info_txt{padding-top:350px}
 .page__info .info_txt h2{font-size:3.375rem;text-align:center;font-family:'A1明朝';color:#fff}
 .page__info .info_txt h2 br{display:none}
 .nav__header{width:100%;background:#000;position:absolute;bottom:-58px;z-index:999}
@@ -592,7 +592,7 @@ template{display:none}
 .nav__header .p-header__middle .l-navigation .p-navigation__link{margin:unset;text-align:center;position:relative}
 .nav__header .p-header__middle .l-navigation .p-navigation__link a{font-family:'Yu Gothic',sans-serif;font-weight:700;color:#fff;font-size:1rem}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:not(:last-child) a{border-right:1px solid #fff;padding-right:15px}
-.nav__header .p-header__right{width:200px}
+.nav__header .p-header__right{max-width:200px;white-space:nowrap;padding-left:20px}
 .nav__header .p-header__right p{text-align:right;font-family:'Yu Gothic',sans-serif;font-weight:700;color:#fff;font-size:1.3125rem}
 .nav__header .p-header__right p span{font-family:'Yu Gothic',sans-serif;font-weight:700;color:#fff;font-size:.875rem}
 .sticky{position:fixed;top:0;z-index:999;width:100%;height:63px}
@@ -875,8 +875,7 @@ template{display:none}
 .sect_1{margin-top:0}
 }@media only screen and (max-width:894px){.sect_5 .c_address__c-description .lef-pic-pc{top:-325px}
 }@media only screen and (max-width:836px){.sect_5 .c_address__c-description .lef-pic-pc{top:-390px}
-}@media only screen and (max-width:825px){.page__info .info_txt{padding-top:350px}
-.page__info .info_txt h2 br{display:block}
+}@media only screen and (max-width:825px){.page__info .info_txt h2 br{display:block}
 }@media only screen and (max-width:768px){.c-contact__item-2 .todo .list_icon{padding-bottom:2px}
 .c-contact__item-2 .todo_desc{padding-bottom:6px}
 }@media only screen and (max-width:751px){.sticky{height:112px}
@@ -1129,7 +1128,7 @@ template{display:none}
 .page__footer .p-footer__inner--bottom{margin-bottom:10px}
 .page__footer .p-footer__inner--bottom .f-card{width:100%;margin-bottom:10px}
 .page__footer .p-footer .footer_copryright{padding-bottom:60px}
-.page__top.isHome{height:700px !important;background-position:center center !important}
+.page__top.isHome{height:780px !important;background-position:center center !important}
 .page__wrapper .hero_cta{width:100%;top:unset;bottom:0}
 .page__wrapper .hero_cta__cont{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){padding:9px;width:42%}
@@ -1141,7 +1140,7 @@ template{display:none}
 .page__wrapper .sticky_hero{-webkit-transition:top 1s ease 0s !important;transition:top 1s ease 0s !important;position:fixed;bottom:0;z-index:999;width:100%}
 .page__info .info_logo{display:none}
 .page__info .info_logo img{margin-top:0}
-.page__info .info_txt{padding-top:400px}
+.page__info .info_txt{padding-top:300px;padding-left:40px}
 .page__info .info_txt h2{font-size:3.125rem;text-align:center}
 .nav__header .l-wrap{padding:18px 30px !important}
 .nav__header .p-header__left{width:21%}
@@ -1222,7 +1221,7 @@ template{display:none}
 .sect_5 .c_address__heading .c-heading-title{letter-spacing:-3px}
 .sect_5 .c_address__heading .c-heading-primary{padding-left:30px;padding-right:30px}
 .sect_5 .c_address__c-description{padding-left:30px;padding-right:30px;padding-bottom:34px}
-.sect_5 .c_address .srvc_1{width:50%}
+.sect_5 .c_address .srvc_1{width:100%}
 .sect_5 .c_address .lef-pic-sp{display:-webkit-box;display:-ms-flexbox;display:flex}
 .sect_5 .c_address__boxes{-webkit-column-count:unset;-moz-column-count:unset;column-count:unset;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;padding-left:30px;padding-right:30px;-webkit-column-gap:unset;-moz-column-gap:unset;column-gap:unset}
 .sect_5 .c_address__boxes .srvc_1-s{width:100%}
@@ -1236,6 +1235,7 @@ template{display:none}
 .sect_5 .c_address__boxes2{-webkit-column-count:unset;-moz-column-count:unset;column-count:unset;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;padding-left:30px;padding-right:30px;-webkit-column-gap:unset;-moz-column-gap:unset;column-gap:unset;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;margin-top:0}
 .sect_5 .c_address__boxes2 .srvc_1-s{width:100%}
 .sect_5 .c_address__boxes2 .arrow{margin:0}
+.sect_5 .c_address__boxes2 .pic-1:nth-child(1) p{padding-right:0;text-align:center;font-size:2rem}
 .sect_5 .c_address__boxes2 .pic-1{width:47%}
 .sect_5 .c_address__boxes2 .pic-1.parking{width:100%}
 .sect_5 .c_address__boxes2 .arrow-1{width:3%}
@@ -1253,7 +1253,6 @@ template{display:none}
 .sect_5 .c_address__boxes .arrow-3{bottom:56% !important}
 .sect_5 .c_address__boxes2 .arrow-1{top:66% !important}
 }@media only screen and (max-width:495px){.sect_5 .c_address__heading .c-heading-title{font-size:2.25rem}
-}@media only screen and (max-width:481px){.sect_5 .c_address__boxes2 .pic-1:nth-child(1) p{font-size:1.625rem}
 }@media only screen and (max-width:480px){.sect_11 .last_ques__title br{display:block}
 }@media only screen and (max-width:479px){.nav__header .p-header__middle .l-navigation .p-navigation__link{width:45%}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:nth-child(2n+1){width:55%}

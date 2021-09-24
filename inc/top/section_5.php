@@ -4,10 +4,13 @@
             alt="">
         <div class="l-wrap">
             <div class="l-container c_address__heading">
-                <p class="c-heading-title c-heading-primary">JR近江八幡駅から<br>
-                    徒歩5分と駅チカの好立地。<br>
+                <p class="c-heading-title c-heading-primary">JR野洲駅から<br>
+                    
+                   
+                徒歩1分と駅チカの好立地。<br>
                     お仕事帰りなどにも<br>
                     お気軽にお立ち寄りください！</p>
+
             </div>
             <div class="l-container c_address__c-description">
                 <table>
@@ -71,8 +74,7 @@
                 <img class="srvc_1" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_7.png"
                     alt="">
 
-                <img class="srvc_1" src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_2.png"
-                    alt="">
+                
 
             </div>
         </div>
@@ -108,7 +110,7 @@
             <div class="pic-1">
                 <img class="srvc_1-s"
                     src="<?php echo get_template_directory_uri(); ?>/release/image/sect_5/image_12.png" alt="">
-                <p class="c-text">タコの絵が目印です>ございます。</p>
+                <p class="c-text">タコの絵が目印です。</p>
             </div>
         </div>
         <div class="l-container c_address__boxes2">

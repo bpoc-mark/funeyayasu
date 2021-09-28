@@ -1129,6 +1129,7 @@ template{display:none}
 .page__footer .p-footer__inner--bottom .f-card{width:100%;margin-bottom:10px}
 .page__footer .p-footer .footer_copryright{padding-bottom:60px}
 .page__top.isHome{height:780px !important;background-position:center center !important}
+.page__wrapper .l-wrap{padding-left:40px}
 .page__wrapper .hero_cta{width:100%;top:unset;bottom:0}
 .page__wrapper .hero_cta__cont{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){padding:9px;width:42%}
@@ -1140,7 +1141,7 @@ template{display:none}
 .page__wrapper .sticky_hero{-webkit-transition:top 1s ease 0s !important;transition:top 1s ease 0s !important;position:fixed;bottom:0;z-index:999;width:100%}
 .page__info .info_logo{display:none}
 .page__info .info_logo img{margin-top:0}
-.page__info .info_txt{padding-top:300px;padding-left:40px}
+.page__info .info_txt{padding-top:300px}
 .page__info .info_txt h2{font-size:3.125rem;text-align:center}
 .nav__header .l-wrap{padding:18px 30px !important}
 .nav__header .p-header__left{width:21%}

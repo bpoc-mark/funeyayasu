@@ -542,11 +542,11 @@ template{display:none}
 .page__footer .p-footer{background-color:#fff;padding-top:150px !important}
 .page__footer .p-footer .l-wrap{padding-left:0 !important;padding-right:0 !important}
 .page__footer .p-footer__inner--top{width:100%}
-.page__footer .p-footer__inner--top .footer_title{text-align:center;font-family:'A1明朝';letter-spacing:.6em;color:#c60000;font-size:2.375rem;margin-bottom:80px}
-.page__footer .p-footer__inner--top .footer_des{text-align:center;font-family:'Noto Sans JP',sans-serif;font-weight:400;color:#000;font-size:1.125rem;line-height:1.7222222222;margin-bottom:60px}
+.page__footer .p-footer__inner--top .footer_title{text-align:center;font-family:"A1明朝";letter-spacing:.6em;color:#c60000;font-size:2.375rem;margin-bottom:80px}
+.page__footer .p-footer__inner--top .footer_des{text-align:center;font-family:"Noto Sans JP",sans-serif;font-weight:400;color:#000;font-size:1.125rem;line-height:1.7222222222;margin-bottom:60px}
 .page__footer .p-footer__inner--top table{width:500px;margin:0 auto 100px}
-.page__footer .p-footer__inner--top table tbody tr th{width:15%;text-align:justify;text-justify:inter-word;font-family:'Noto Sans JP',sans-serif;font-weight:500;color:#c60000;font-size:1rem;vertical-align:top}
-.page__footer .p-footer__inner--top table tbody tr td{width:85%;text-align:left;font-family:'Noto Sans JP',sans-serif;font-weight:400;color:#000;font-size:1.125rem}
+.page__footer .p-footer__inner--top table tbody tr th{width:15%;text-align:justify;text-justify:inter-word;font-family:"Noto Sans JP",sans-serif;font-weight:500;color:#c60000;font-size:1rem;vertical-align:top}
+.page__footer .p-footer__inner--top table tbody tr td{width:85%;text-align:left;font-family:"Noto Sans JP",sans-serif;font-weight:400;color:#000;font-size:1.125rem}
 .page__footer .p-footer__inner--top table tbody tr td br{display:none}
 .page__footer .p-footer__inner--bottom{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;margin-bottom:75px}
 .page__footer .p-footer__inner--bottom .f-card{width:32.29%;border:2px solid #820000;background-color:#820000;height:120px;position:relative}
@@ -554,29 +554,29 @@ template{display:none}
 .page__footer .p-footer__inner--bottom .f-card .bg-img .overlay{width:100%;height:100%;position:absolute;top:0;left:0;z-index:1;background:#b50000;background:-webkit-gradient(linear,left top,right top,from(#b50000),color-stop(45%,#b50000),color-stop(87%,rgba(181,0,0,0)));background:linear-gradient(90deg,#b50000 0,#b50000 45%,rgba(181,0,0,0) 87%)}
 .page__footer .p-footer__inner--bottom .f-card .bg-img .overlay_logo{width:200px;position:absolute;top:15px;left:15px;z-index:2}
 .page__footer .p-footer__inner--bottom .f-card .card_txt{position:absolute;top:10px;left:15px;z-index:3}
-.page__footer .p-footer__inner--bottom .f-card .card_txt p{text-align:left;font-family:'A1明朝';color:#fff;font-size:1.5rem;line-height:1.2916666667}
+.page__footer .p-footer__inner--bottom .f-card .card_txt p{text-align:left;font-family:"A1明朝";color:#fff;font-size:1.5rem;line-height:1.2916666667}
 .page__footer .p-footer__inner--bottom .f-card:nth-of-type(3) .overlay{background:#40220f;background:-webkit-gradient(linear,left top,right top,from(#40220f),color-stop(45%,#40220f),color-stop(87%,rgba(64,34,15,0.222024)));background:linear-gradient(90deg,#40220f 0,#40220f 45%,rgba(64,34,15,0.222024) 87%)}
 .page__footer .p-footer__inner--bottom .f-card:nth-of-type(3) .card_txt p{margin-bottom:5px;color:#f0d29b;font-size:1.125rem;line-height:1.7222222222}
 .page__footer .p-footer .footer_copryright{background:#c60000;padding:20px 0}
-.page__footer .p-footer .footer_copryright p{text-align:center;font-family:'Yu Gothic',sans-serif;font-weight:500;color:#fff;font-size:1rem}
-.page__footer .p-footer .footer_copryright p a{text-align:center;font-family:'Yu Gothic',sans-serif;font-weight:500;color:#fff;font-size:1rem}
+.page__footer .p-footer .footer_copryright p{text-align:center;font-family:"Yu Gothic",sans-serif;font-weight:600;color:#fff;font-size:1rem}
+.page__footer .p-footer .footer_copryright p a{text-align:center;font-family:"Yu Gothic",sans-serif;font-weight:600;color:#fff;font-size:1rem}
 .page__header{position:relative}
 .page__top{position:relative}
 .page__top.isHome{position:relative;height:900px !important;background:url("http://funeyakusatsu.test/wp-content/uploads/2021/06/top_img.png") !important;background-size:cover !important;background-position:center center;background-repeat:no-repeat}
 .page__wrapper .hero_cta{width:140px;position:absolute;top:0;right:0;-webkit-transition:top 1s ease 0s !important;transition:top 1s ease 0s !important}
-.page__wrapper .hero_cta__cont .item_01{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
+.page__wrapper .hero_cta__cont .item_01{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){background:url("../image/header/cta_bg.jpg") no-repeat 98% !important;background-size:cover;padding:30px 0 20px}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1) .item_icn{width:30px;margin:0 auto 15px}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1) .item_txt{width:100%}
-.page__wrapper .hero_cta__cont .item_01:nth-of-type(1) .item_txt p{font-family:'Noto Sans JP',sans-serif;font-weight:700;text-align:center}
+.page__wrapper .hero_cta__cont .item_01:nth-of-type(1) .item_txt p{font-family:"Noto Sans JP",sans-serif;font-weight:700;text-align:center}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(2){background-color:#6e0000;padding:9px}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(3){background-color:#009600;padding:9px}
 .page__wrapper .hero_cta__cont .item_01 .item_icn{width:22px;margin:0 10px 0 0}
-.page__wrapper .hero_cta__cont .item_01 .item_txt p{font-family:'Noto Sans JP',sans-serif;font-weight:700;color:#fff;font-size:1rem}
+.page__wrapper .hero_cta__cont .item_01 .item_txt p{font-family:"Noto Sans JP",sans-serif;font-weight:700;color:#fff;font-size:1rem}
 .page__info .info_logo{width:200px;height:100px}
 .page__info .info_logo img{width:100%;margin-top:100px}
 .page__info .info_txt{padding-top:350px}
-.page__info .info_txt h2{font-size:3.375rem;text-align:center;font-family:'A1明朝';color:#fff}
+.page__info .info_txt h2{font-size:3.375rem;text-align:center;font-family:"A1明朝";color:#fff}
 .page__info .info_txt h2 br{display:none}
 .nav__header{width:100%;background:#000;position:absolute;bottom:-58px;z-index:999}
 .nav__header .l-wrap{padding:13px 40px !important}
@@ -590,11 +590,11 @@ template{display:none}
 .nav__header .p-header__middle .l-navigation{padding:0 !important;display:unset}
 .nav__header .p-header__middle .l-navigation .p-navigation{margin:unset;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-wrap:wrap;flex-wrap:wrap}
 .nav__header .p-header__middle .l-navigation .p-navigation__link{margin:unset;text-align:center;position:relative}
-.nav__header .p-header__middle .l-navigation .p-navigation__link a{font-family:'Yu Gothic',sans-serif;font-weight:700;color:#fff;font-size:1rem}
+.nav__header .p-header__middle .l-navigation .p-navigation__link a{font-family:"Yu Gothic",sans-serif;font-weight:700;color:#fff;font-size:1rem}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:not(:last-child) a{border-right:1px solid #fff;padding-right:15px}
 .nav__header .p-header__right{max-width:200px;white-space:nowrap;padding-left:20px}
-.nav__header .p-header__right p{text-align:right;font-family:'Yu Gothic',sans-serif;font-weight:700;color:#fff;font-size:1.3125rem}
-.nav__header .p-header__right p span{font-family:'Yu Gothic',sans-serif;font-weight:700;color:#fff;font-size:.875rem}
+.nav__header .p-header__right p{text-align:right;font-family:"Yu Gothic",sans-serif;font-weight:700;color:#fff;font-size:1.3125rem}
+.nav__header .p-header__right p span{font-family:"Yu Gothic",sans-serif;font-weight:700;color:#fff;font-size:.875rem}
 .sticky{position:fixed;top:0;z-index:999;width:100%;height:63px}
 .sect_10{background:url("../image/sect_10/sect_10_bg.png");background-repeat:no-repeat;background-size:cover}
 .sect_10__store{text-align:center;padding:100px 0 60px 0}
@@ -1127,7 +1127,7 @@ template{display:none}
 .page__footer .p-footer__inner--top table tbody tr td br{display:block}
 .page__footer .p-footer__inner--bottom{margin-bottom:10px}
 .page__footer .p-footer__inner--bottom .f-card{width:100%;margin-bottom:10px}
-.page__footer .p-footer .footer_copryright{padding-bottom:60px}
+.page__footer .p-footer .footer_copryright{padding:20px 0 70px}
 .page__top.isHome{height:780px !important;background-position:center center !important}
 .page__wrapper .l-wrap{padding-left:40px}
 .page__wrapper .hero_cta{width:100%;top:unset;bottom:0}
@@ -1258,10 +1258,10 @@ template{display:none}
 }@media only screen and (max-width:479px){.nav__header .p-header__middle .l-navigation .p-navigation__link{width:45%}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:nth-child(2n+1){width:55%}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:not(:last-child) a{padding-right:8px}
-}@media only screen and (max-width:470px){.page__wrapper .hero_cta__cont .item_01:nth-of-type(1){width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+}@media only screen and (max-width:470px){.page__footer .p-footer .footer_copryright{padding:20px 0 110px}
+.page__wrapper .hero_cta__cont .item_01:nth-of-type(1){width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(2){width:50%}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(3){width:50%}
-}@media only screen and (max-width:469px){.page__footer .p-footer .footer_copryright{padding-bottom:100px}
 }@media only screen and (max-width:400px){.sect_5 .c_address__boxes .arrow-1{top:74% !important}
 .sect_5 .c_address__boxes .arrow-2{top:10% !important}
 .sect_5 .c_address__boxes .arrow-3{top:42% !important}

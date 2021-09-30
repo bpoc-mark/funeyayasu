@@ -22,8 +22,8 @@
 	}
 
 	&__wrapper {
-		.l-wrap{
-			@include is-sp{
+		.l-wrap {
+			@include is-sp {
 				padding-left: 40px;
 			}
 		}
@@ -41,7 +41,6 @@
 			}
 
 			&__cont {
-
 				// top: 0;
 				@include is-sp {
 					display: flex;
@@ -51,6 +50,7 @@
 				.item_01 {
 					display: flex;
 					flex-wrap: wrap;
+					justify-content: center;
 
 					&:nth-of-type(1) {
 						background: url("../image/header/cta_bg.jpg") no-repeat 98% !important;
@@ -86,7 +86,7 @@
 							}
 
 							p {
-								font-family: 'Noto Sans JP', sans-serif;
+								font-family: "Noto Sans JP", sans-serif;
 								font-weight: 700;
 								text-align: center;
 							}
@@ -94,7 +94,7 @@
 					}
 
 					&:nth-of-type(2) {
-						background-color: #6E0000;
+						background-color: #6e0000;
 						padding: 9px;
 
 						@include is-sp {
@@ -104,7 +104,6 @@
 						@include is-max(470px) {
 							width: 50%;
 						}
-
 					}
 
 					&:nth-of-type(3) {
@@ -127,7 +126,7 @@
 
 					.item_txt {
 						p {
-							font-family: 'Noto Sans JP', sans-serif;
+							font-family: "Noto Sans JP", sans-serif;
 							font-weight: 700;
 							color: #fff;
 							@include font-line(16);
@@ -160,7 +159,6 @@
 			//     top: 150px !important;
 			// }
 		}
-
 	}
 
 	&__info {
@@ -187,13 +185,12 @@
 
 			@include is-sp {
 				padding-top: 300px;
-			
 			}
 
 			h2 {
 				@include font-line(54);
 				text-align: center;
-				font-family: 'A1明朝';
+				font-family: "A1明朝";
 				color: #fff;
 
 				@include is-sp {
@@ -331,13 +328,13 @@
 							@include is-max(479px) {
 								width: 45%;
 
-								&:nth-child(2n+1) {
+								&:nth-child(2n + 1) {
 									width: 55%;
 								}
 							}
 
 							a {
-								font-family: 'Yu Gothic', sans-serif;
+								font-family: "Yu Gothic", sans-serif;
 								font-weight: 700;
 								color: #fff;
 								@include font-line(16);
@@ -349,7 +346,7 @@
 
 								// @include is-max(479px) {
 								//     padding-left: 0;
-								// } 
+								// }
 							}
 
 							&:not(:last-child) {
@@ -390,7 +387,7 @@
 
 				p {
 					text-align: right;
-					font-family: 'Yu Gothic', sans-serif;
+					font-family: "Yu Gothic", sans-serif;
 					font-weight: 700;
 					color: #fff;
 					@include font-line(21);
@@ -400,7 +397,7 @@
 					}
 
 					span {
-						font-family: 'Yu Gothic', sans-serif;
+						font-family: "Yu Gothic", sans-serif;
 						font-weight: 700;
 						color: #fff;
 						@include font-line(14);

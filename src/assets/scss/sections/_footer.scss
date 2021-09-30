@@ -25,15 +25,14 @@
 			}
 
 			&__inner {
-
 				&--top {
 					width: 100%;
 
 					.footer_title {
 						text-align: center;
-						font-family: 'A1明朝';
+						font-family: "A1明朝";
 						letter-spacing: 0.6em;
-						color: #C60000;
+						color: #c60000;
 						@include font-line(38);
 						margin-bottom: 80px;
 
@@ -44,7 +43,7 @@
 
 					.footer_des {
 						text-align: center;
-						font-family: 'Noto Sans JP', sans-serif;
+						font-family: "Noto Sans JP", sans-serif;
 						font-weight: 400;
 						color: #000;
 						@include font-line(18, 31);
@@ -62,14 +61,13 @@
 
 						tbody {
 							tr {
-
 								th {
 									width: 15%;
 									text-align: justify;
 									text-justify: inter-word;
-									font-family: 'Noto Sans JP', sans-serif;
+									font-family: "Noto Sans JP", sans-serif;
 									font-weight: 500;
-									color: #C60000;
+									color: #c60000;
 									@include font-line(16);
 									vertical-align: top;
 
@@ -81,7 +79,7 @@
 								td {
 									width: 85%;
 									text-align: left;
-									font-family: 'Noto Sans JP', sans-serif;
+									font-family: "Noto Sans JP", sans-serif;
 									font-weight: 400;
 									color: #000;
 									@include font-line(18);
@@ -145,7 +143,12 @@
 								left: 0;
 								z-index: 1;
 								background: rgb(181, 0, 0);
-								background: linear-gradient(90deg, rgba(181, 0, 0, 1) 0%, rgba(181, 0, 0, 1) 45%, rgba(181, 0, 0, 0) 87%);
+								background: linear-gradient(
+									90deg,
+									rgba(181, 0, 0, 1) 0%,
+									rgba(181, 0, 0, 1) 45%,
+									rgba(181, 0, 0, 0) 87%
+								);
 							}
 
 							.overlay_logo {
@@ -165,7 +168,7 @@
 
 							p {
 								text-align: left;
-								font-family: 'A1明朝';
+								font-family: "A1明朝";
 								color: #fff;
 								@include font-line(24, 31);
 							}
@@ -174,13 +177,18 @@
 						&:nth-of-type(3) {
 							.overlay {
 								background: rgb(64, 34, 15);
-								background: linear-gradient(90deg, rgba(64, 34, 15, 1) 0%, rgba(64, 34, 15, 1) 45%, rgba(64, 34, 15, 0.22202384371717432) 87%);
+								background: linear-gradient(
+									90deg,
+									rgba(64, 34, 15, 1) 0%,
+									rgba(64, 34, 15, 1) 45%,
+									rgba(64, 34, 15, 0.22202384371717432) 87%
+								);
 							}
 
 							.card_txt {
 								p {
 									margin-bottom: 5px;
-									color: #F0D29B;
+									color: #f0d29b;
 									@include font-line(18, 31);
 								}
 							}
@@ -190,28 +198,28 @@
 			}
 
 			.footer_copryright {
-				background: #C60000;
+				background: #c60000;
 				padding: 20px 0;
 
 				@include is-sp {
-					padding-bottom: 60px;
+					padding: 20px 0 70px;
 				}
 
-				@include is-max(469px) {
-					padding-bottom: 100px;
+				@include is-max(470px) {
+					padding: 20px 0 110px;
 				}
 
 				p {
 					text-align: center;
-					font-family: 'Yu Gothic', sans-serif;
-					font-weight: 500;
+					font-family: "Yu Gothic", sans-serif;
+					font-weight: 600;
 					color: #fff;
 					@include font-line(16);
 
 					a {
 						text-align: center;
-						font-family: 'Yu Gothic', sans-serif;
-						font-weight: 500;
+						font-family: "Yu Gothic", sans-serif;
+						font-weight: 600;
 						color: #fff;
 						@include font-line(16);
 					}

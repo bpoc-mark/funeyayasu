@@ -1259,7 +1259,7 @@ template{display:none}
 }@media only screen and (max-width:479px){.nav__header .p-header__middle .l-navigation .p-navigation__link{width:45%}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:nth-child(2n+1){width:55%}
 .nav__header .p-header__middle .l-navigation .p-navigation__link:not(:last-child) a{padding-right:8px}
-}@media only screen and (max-width:470px){.page__footer .p-footer .footer_copryright{padding:20px 0 110px}
+}@media only screen and (max-width:470px){.page__footer .p-footer .footer_copryright{padding:20px 0 120px}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(1){width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(2){width:50%}
 .page__wrapper .hero_cta__cont .item_01:nth-of-type(3){width:50%}

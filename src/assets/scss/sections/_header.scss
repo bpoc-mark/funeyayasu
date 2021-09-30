@@ -58,7 +58,7 @@
 						padding: 30px 0 20px;
 
 						@include is-sp {
-							padding: 12px;
+							padding: 12px 0;
 							width: 42%;
 						}
 
@@ -98,7 +98,7 @@
 						padding: 9px;
 
 						@include is-sp {
-							padding: 12px;
+							padding: 12px 0;
 							width: 29%;
 						}
 
@@ -112,7 +112,7 @@
 						padding: 9px;
 
 						@include is-sp {
-							padding: 12px;
+							padding: 12px 0;
 							width: 29%;
 						}
 

@@ -62,7 +62,7 @@
 							width: 42%;
 						}
 
-						@include is-max(470px) {
+						@include is-max(480px) {
 							width: 100%;
 							display: flex;
 							justify-content: center;
@@ -102,7 +102,7 @@
 							width: 29%;
 						}
 
-						@include is-max(470px) {
+						@include is-max(480px) {
 							width: 50%;
 						}
 					}
@@ -116,7 +116,7 @@
 							width: 29%;
 						}
 
-						@include is-max(470px) {
+						@include is-max(480px) {
 							width: 50%;
 						}
 					}
